@@ -8,7 +8,7 @@ SonarQube bestaat uit drie belangrijke onderdelen:
 3. de analysers  
 De analysers analyseren de source code en werken de database bij. Vervolgens worden de resultaten van de analyse
  weergegeven in de web interface.
-![SonarQube Architectuur](img/sonarqube_arch.png)
+![SonarQube Architectuur](../img/sonarqube_arch.png)
 
 SonarQube met eigen server
 --------------------------
