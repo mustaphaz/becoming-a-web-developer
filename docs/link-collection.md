@@ -25,6 +25,7 @@
 **Inversion of Control**
 - IoC vs DI | [weblink](https://dzone.com/articles/ioc-vs-di)
 - IoC Containers and the DI pattern [weblink](https://www.martinfowler.com/articles/injection.html)
+
 **General**
 - Martin Fowler | [weblink](https://www.martinfowler.com/intro.html)
 - JVM Minimal Survival Guide | [weblink](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
