@@ -10,6 +10,9 @@
 - [javap](https://javaranch.com/journal/200408/ScjpTipLine-javap.html)
 - [JVM Minimal Survival Guide](http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
 
+**# Performance Engineering:**
+- [17-best-practices](https://techbeacon.com/17-best-practices-java-performance-engineering)
+
 **# Coding exercise:**
 - [Project Euler](https://projecteuler.net/)
 - [codewars](https://www.codewars.com/)
